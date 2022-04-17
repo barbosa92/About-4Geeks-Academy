@@ -1,0 +1,108 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Alejandro
+    last_name: Roldán
+    motto: Full Stack Developer apprentice and Biologist
+    avatar: 
+    summary: |
+        The passion and commitment for the conservation of our
+        seas and forests, has been for many years my
+        reference point. We must educate society
+        of the beauty of this planet and show them the importance
+        to manage it well.
+
+    # Sidebar links
+    email: alexrp_92@hotmail.com
+    phone: +34 661 70 11 81
+    website: 
+    linkedin: 
+    github: barbosa92
+    twitter: 
+    stack-overflow:
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: ISE II (B2)
+
+    interests:
+      - item: Scuba Diving
+      - item: Technological advances
+      - item: Nature
+
+education:
+    - degree: Master in Marine Ecology
+      university: University of Balearic Islands
+      time: 2019 - 2020
+
+    - degree: Bachelor in Biology
+      university: University of Cordoba
+      time: 2013 - 2018
+
+experiences:
+    - role: Repair Technician
+      time: 2020 - 2021
+      company: Samsung Official Technical Service, Palma de Mallorca
+      details: |
+        
+
+    - role: Warehouse and collection manager
+      time: 2019
+      company: Cantueso Natural Seeds, Cordoba
+      details: |
+
+    - role: Co- Founder
+      time: 2018 - 2019
+      company: Glubel, Cordoba
+      details: |
+        
+
+projects:
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: 
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+skills:
+    toolset:
+      - name: Python
+        level: 5%
+
+      - name: Javascript
+        level: 2%
+
+      - name: React
+        level: 1%
+
+      - name: HTML5 & CSS
+        level: 3%
